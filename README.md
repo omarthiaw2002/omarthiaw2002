@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Omar Thiaw
 
-<!--
-**omarthiaw2002/omarthiaw2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en informatique, passionné par le développement web et l'intelligence artificielle.
 
-Here are some ideas to get you started:
+## 🚀 Mes projets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 MarketAI — Analyse d'appels d'offres par IA
+Application complète (FastAPI + React + PostgreSQL + Groq/Gemini) pour extraire automatiquement les exigences d'un DCE.
+→ [Voir le projet](https://github.com/omarthiaw2002/marketai)
+
+### 📱 SIRA — [description courte]
+→ [Voir le projet](https://github.com/omarthiaw2002/sira)
+
+### 🍽️ Traiteur — [description courte]
+→ [Voir le projet](https://github.com/omarthiaw2002/Traiteur)
+
+### 🗂️ Gestion-fichiers-frontend — 
+→ [Voir le projet](https://github.com/omarthiaw2002/gestion-fichiers-frontend)
+
+## 🛠️ Compétences
+
+- **Frontend** : React, TypeScript, Tailwind CSS
+- **Backend** : Python, FastAPI, SQLAlchemy
+- **Base de données** : PostgreSQL, Supabase
+- **IA** : Groq, Gemini, claude etc
+- **Outils** : Git, Vite, Alembic
