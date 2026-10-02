@@ -8,13 +8,13 @@
 Application complète (FastAPI + React + PostgreSQL + Groq/Gemini) pour extraire automatiquement les exigences d'un DCE.
 → [Voir le projet](https://github.com/omarthiaw2002/marketai)
 
-### 📱 SIRA — [description courte]
+### 📱 SIRA
 → [Voir le projet](https://github.com/omarthiaw2002/sira)
 
-### 🍽️ Traiteur — [description courte]
+### 🍽️ Traiteur
 → [Voir le projet](https://github.com/omarthiaw2002/Traiteur)
 
-### 🗂️ Gestion-fichiers-frontend — 
+### 🗂️ Gestion-fichiers
 → [Voir le projet](https://github.com/omarthiaw2002/gestion-fichiers-frontend)
 
 ## 🛠️ Compétences
